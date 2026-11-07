@@ -1,6 +1,5 @@
-import React from 'react'
-import Products from './Products'
-import Nav from './Nav'
+import Products from './components/Products'
+import Nav from './components/Nav'
 import { Routes,Route } from 'react-router-dom'
 const App = () => {
 
