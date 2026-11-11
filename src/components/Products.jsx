@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import { motion, useScroll, useMotionValueEvent } from "motion/react";
-import juice11 from "../assets/juice11.PNG";
+import juice11 from "/juice11.PNG";
 import juice12 from "../assets/juice12.png";
 import juice13 from "../assets/juice13.png";
 import juice14 from "../assets/juice14.png";

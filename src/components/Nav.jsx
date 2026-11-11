@@ -21,11 +21,11 @@ const Nav = () => {
 
       {/* center nav */}
       <div className="text-base flex lg:gap-5 gap-2 font-medium pt-6 lg:pt-25 lg:pl-55 md:pr-72 pr-2 lg:pr-0 pointer-events-auto">
-        <button
+        <a 
           className={`bg-white cursor-pointer text-black px-6 py-2 rounded-full ${hoverAccent}`}
         >
           Products
-        </button>
+        </a>
         <button
           className={`bg-white/40 backdrop-blur-md cursor-pointer text-black px-7 py-2 rounded-full ${hoverAccent}`}
         >
